@@ -467,6 +467,9 @@ footer {
   color: black;
   stroke: currentColor;
 }
+.social a svg:hover {
+  color: #72797c;
+}
 
 
 .section h1{
